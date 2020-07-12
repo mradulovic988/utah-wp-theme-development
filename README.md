@@ -13,7 +13,7 @@
 
 <!-- How to use -->
 ## How To Use
-You can use `git clone https://github.com/upss1988/utah-wp-theme-development.git` and copy the theme folder into your WordPress `wp-content` folder.
+Use `git clone https://github.com/upss1988/utah-wp-theme-development.git` and copy the theme folder into your WordPress `wp-content` folder.
 
 
 <!-- CONTACT -->
